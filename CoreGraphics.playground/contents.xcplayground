@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='02. Basic Shapes'/>
-        <page name='03. Paths'/>
+        <page name='02-basic-shapes'/>
+        <page name='03-1-paths-line'/>
+        <page name='03-2-paths-chevron'/>
+        <page name='03-3-paths-heart'/>
+        <page name='03-4-path-fills'/>
+        <page name='03-5-path-addition'/>
+        <page name='03-6-path-stroke'/>
     </pages>
 </playground>
