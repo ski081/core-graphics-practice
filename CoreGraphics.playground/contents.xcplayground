@@ -8,5 +8,8 @@
         <page name='03-4-path-fills'/>
         <page name='03-5-path-addition'/>
         <page name='03-6-path-stroke'/>
+        <page name='02. Basic Shapes'/>
+        <page name='03. Paths'/>
+        <page name='04-1-colors'/>
     </pages>
 </playground>
