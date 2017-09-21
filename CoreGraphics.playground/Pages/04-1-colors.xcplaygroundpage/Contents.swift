@@ -1,4 +1,4 @@
-import UIKit
+ import UIKit
 import PlaygroundSupport
 
 public final class LineView: UIView {
@@ -8,11 +8,18 @@ public final class LineView: UIView {
         }
         
         let colorspace = CGColorSpaceCreateDeviceRGB()
-        let color = CGColor(colorSpace: colorspace, components: [0.5, 1])!
+        let color = CGColor(colorSpace: colorspace,
+                            components: [0, 1, 0, 1])!
         
         
         context.setFillColor(color)
         context.fill(bounds)
+        
+        let secondColor = CGColor(colorSpace: colorspace,
+                                  components: [0, 0, 1, 0.5])!
+        context.setFillColor(secondColor)
+        context.setBlendMode(.normal)
+        context.fill(rect.insetBy(dx: 64, dy: 64))
     }
 }
 
