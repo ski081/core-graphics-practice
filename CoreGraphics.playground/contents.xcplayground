@@ -8,11 +8,18 @@
         <page name='03-4-path-fills'/>
         <page name='03-5-path-addition'/>
         <page name='03-6-path-stroke'/>
+        <page name='02. Basic Shapes'/>
+        <page name='03. Paths'/>
         <page name='04-1-colors'/>
         <page name='05-1-gradients-linear'/>
         <page name='05-2-gradients-radial'/>
         <page name='06-1-clipping-paths'/>
         <page name='06-2-clipping-paths-rounded-rect'/>
         <page name='07-1-transforms'/>
+        <page name='08-1-images'/>
+        <page name='09-1-text'/>
+        <page name='09-2-text-attributed'/>
+        <page name='09-3-text-label'/>
+        <page name='09-4-text-drawing'/>
     </pages>
 </playground>
