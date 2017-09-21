@@ -8,8 +8,6 @@
         <page name='03-4-path-fills'/>
         <page name='03-5-path-addition'/>
         <page name='03-6-path-stroke'/>
-        <page name='02. Basic Shapes'/>
-        <page name='03. Paths'/>
         <page name='04-1-colors'/>
         <page name='05-1-gradients-linear'/>
         <page name='05-2-gradients-radial'/>
@@ -21,5 +19,10 @@
         <page name='09-2-text-attributed'/>
         <page name='09-3-text-label'/>
         <page name='09-4-text-drawing'/>
+        <page name='10-1-offscreen-rendering'/>
+        <page name='10-2-offscreen-rendering-ios'/>
+        <page name='11-1-custom-calayer'/>
+        <page name='12-1-pie-progress-view'/>
+        <page name='13-1-watermark-photo'/>
     </pages>
 </playground>
